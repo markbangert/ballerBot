@@ -1,0 +1,3 @@
+*.pubxml.user
+*.csproj.user
+.vs/
